@@ -1,0 +1,5 @@
+{
+  "name": "RenalCare: Monitoramento de Transplante",
+  "description": "Aplicativo para acompanhamento de pacientes transplantados renais, permitindo o registro de medicamentos, exames laboratoriais e sinais vitais.",
+  "requestFramePermissions": []
+}
